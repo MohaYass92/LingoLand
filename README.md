@@ -1,2 +1,25 @@
 # LingoLand
-LingoLand is a 3D educational game built with Unity for English-speaking children to learn French. Explore vibrant worlds, switch between first-person and top views, interact with objects to hear their French names, and test your knowledge in quiz mode. Fun, interactive, and educational! 🎮🌍
+LingoLand is an educational game designed for children who speak English and wish to learn French. The game features two main modes—Exploration and Challenge—where players can learn French vocabulary, switch between camera views, and test their skills in a fun environment.
+
+# Features
+- **Start Menu**: Allows users to begin the game or exit with easy navigation options.
+- **Exploration Mode**: Players can explore different environments and learn object names in French.
+- **Challenge Mode**: Players are tested on their knowledge through quizzes and challenges.
+- **Camera Modes**: Switch between a top-down camera and a first-person perspective with a simple button.
+- **Pause Menu**: Options to resume, restart, or exit the game, with additional settings for toggling game modes.
+- **Congratulations Panel**: Players receive feedback on their performance (success or mistakes) after completing a challenge.
+- **French Learning**: The game teaches vocabulary, simple sentences, and phrases in French.
+
+# Technologies Used
+- **Unity**: Used to develop the game and provide an interactive 3D environment.
+- **C#**: The primary programming language used for scripting gameplay mechanics.
+- **UI Elements**: Custom panels and menus for navigation and interaction with the game.
+
+# Project Report
+The detailed project report for **LingoLand** can be found [here](./LingoLand_Project_Report.pdf).
+
+# Getting Started
+1. Clone this repository.
+2. Open the project in Unity.
+3. Set up Unity and build the game for your desired platform (Windows, Mac, etc.).
+4. Play the game and explore the educational content.
