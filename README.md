@@ -19,7 +19,7 @@ LingoLand is an educational game designed for children who speak English and wis
 The detailed project report for **LingoLand** can be found [here](./LingoLand_Project_Report.pdf).
 
 # Getting Started
-1. Clone this repository.
-2. Open the project in Unity.
-3. Set up Unity and build the game for your desired platform (Windows, Mac, etc.).
-4. Play the game and explore the educational content.
+1. Clone this repository to your local machine:   git clone https://github.com/MohaYass92/LingoLand.git
+2. Navigate to the project folder.
+3. Run the LingoLand.exe to start the game.
+4. Enjoy learning French while playing!
