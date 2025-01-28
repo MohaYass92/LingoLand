@@ -1,0 +1,2 @@
+*.cs linguist-language=C#
+*.unity linguist-language=Unity
